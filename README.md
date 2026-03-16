@@ -2,7 +2,7 @@
 
 A hybrid book recommendation system built on the **Book-Crossing dataset** (1M+ ratings from 278K users across 271K books). Combines SVD matrix factorization and item-based collaborative filtering to deliver personalized book recommendations.
 
-🔗 **Live Demo:** [adv-book-recommender.streamlit.app](https://adv-book-recommender-app.streamlit.app)
+🔗 **Live Demo:** [adv-recommendation-system.streamlit.app](adv-book-recommender-app.streamlit.app)
 
 ---
 
